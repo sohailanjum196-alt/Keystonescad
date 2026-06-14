@@ -1,0 +1,152 @@
+
+> keystone-cad@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.5.19 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.5:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.9s
+ ○ Compiling / ...
+ ✓ Compiled / in 12.8s
+ GET / 200 in 14195ms
+ GET / 200 in 1533ms
+ GET / 200 in 1095ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1271ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 1557ms
+ GET / 200 in 210ms
+ GET / 200 in 597ms
+ ⚠ Blocked cross-origin request from 127.0.0.1 to /_next/* resource. To allow this, configure "allowedDevOrigins" in next.config
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 417ms
+ ✓ Compiled in 380ms
+ ✓ Compiled in 325ms
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.mmzhxpmeqx'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.mmzhxpmeqx'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 5.2s
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.hmjp3tk9b86'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.hmjp3tk9b86'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.mmzhxpmeqx'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.mmzhxpmeqx'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.iq2xp1jujd'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.iq2xp1jujd'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.nrsb8948dqh'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.nrsb8948dqh'
+}
+ ✓ Compiled in 263ms
+ ✓ Compiled in 153ms
+ ✓ Compiled in 153ms
+ ✓ Compiled in 188ms
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.bvre2eey7tb'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.bvre2eey7tb'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.rzwn5073fa'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.rzwn5073fa'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.bvre2eey7tb'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.bvre2eey7tb'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.3uyxloide1z'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.3uyxloide1z'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.r60yy647dq'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.r60yy647dq'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.vn3nqpfg5b'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.vn3nqpfg5b'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.rsxvf6o8pc'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.rsxvf6o8pc'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.vn3nqpfg5b'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.vn3nqpfg5b'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.m8fbuxw02ni'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.m8fbuxw02ni'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.916tgyfna3q'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.916tgyfna3q'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.84dnuumklv6'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.84dnuumklv6'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.7mxg13ly5z'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.7mxg13ly5z'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.84dnuumklv6'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.84dnuumklv6'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.0csu21kqkr0s'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.0csu21kqkr0s'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\Shaheer Sohail\Documents\KeyStonecad\.next\static\development\_buildManifest.js.tmp.mnazusxs6h9'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Shaheer Sohail\\Documents\\KeyStonecad\\.next\\static\\development\\_buildManifest.js.tmp.mnazusxs6h9'
+}
+[?25h
